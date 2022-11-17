@@ -1,6 +1,6 @@
 # Code Girls
 
-## [Link do deploy](https://lizandrafmiazaki.github.io/SAP008-social-network/)
+## [Link do deploy](https://amandapolari.github.io/SAP008-social-network/)
 
 ***
 
