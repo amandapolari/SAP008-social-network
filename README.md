@@ -14,6 +14,7 @@
 * [6. Como testar](#6-como-testar)
 * [7. Tecnologias utilizadas](#7-tecnologias-utilizadas)
 * [8. Desenho de interface do usuário](#8-desenho-de-interface-do-usuário)
+* [9. Desenvolvedoras](#9-desenvolvedoras)
 
 ***
 
@@ -106,7 +107,7 @@ O prototótipo de alta fidelidade foi feito utilizando Figma.
 ![alta-fidelidade](./src/img/p-alta-fidelidade.jpeg)
 
 ***
-
-### Este projeto foi desenvolvido por:
+## 9. Desenvolvedoras
+Este projeto foi desenvolvido por:
 * **Amanda Polari** : [Linkedin](https://www.linkedin.com/in/amandapolari/) | [GitHub](https://github.com/amandapolari)
 * **Lizandra Miazaki** : [Linkedin](https://www.linkedin.com/in/lizandramiazaki/) | [GitHub](https://github.com/lizandrafmiazaki)
