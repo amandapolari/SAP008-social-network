@@ -23,7 +23,7 @@ export default () => {
     <section class="container-post">
 
     <div class="container" id="all-content">  
-    <p class="username">${post.name}</p>     
+    <p class="username">${post.name}</p>
   
       <textarea class="postTxt txtArea" data-post="${post.id}" id="text-post" disabled>${post.text}</textarea>
 
