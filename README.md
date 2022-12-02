@@ -1,6 +1,16 @@
-# Code Girls
+<h1 align="center">Code Girls</h1>
+<div align="center">
 
-## [Link do deploy](https://amandapolari.github.io/SAP008-social-network/)
+![Demonstração](./src/img/gif-social-network.gif)
+
+</div>
+<p align="center">
+<span><strong>Tecnologias e Ferramentas utilizadas:</strong></span>
+<br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jest,firebase,github,git,figma" style="height: 25px;"/>
+  </a>
+</p>
 
 ***
 
@@ -19,8 +29,6 @@
 ***
 
 ## 1. Resumo do Projeto
-
-![Página de Login](./src/img/login-deploy.png)
 
 O **Projeto Social Network** foi o terceiro projeto desenvolvido no *bootcamp da Laboratória*. Uma Rede Social que permite que o usuário crie uma conta de acesso, logue-se com ela, crie, edite, delete e dê likes em publicações. 
 O objetivo principal de aprendizagem deste projeto foi construir uma Single-page Application (SPA) responsiva, trabalhar com autenticação com Firebase Auth e persistência de dados com Firestore.
